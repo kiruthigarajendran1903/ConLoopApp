@@ -1,0 +1,8 @@
+D:\ConLoopApp\ConLoopApp\bin\Debug\ConLoopApp.exe.config
+D:\ConLoopApp\ConLoopApp\bin\Debug\ConLoopApp.exe
+D:\ConLoopApp\ConLoopApp\bin\Debug\ConLoopApp.pdb
+D:\ConLoopApp\ConLoopApp\obj\Debug\ConLoopApp.csproj.AssemblyReference.cache
+D:\ConLoopApp\ConLoopApp\obj\Debug\ConLoopApp.csproj.SuggestedBindingRedirects.cache
+D:\ConLoopApp\ConLoopApp\obj\Debug\ConLoopApp.csproj.CoreCompileInputs.cache
+D:\ConLoopApp\ConLoopApp\obj\Debug\ConLoopApp.exe
+D:\ConLoopApp\ConLoopApp\obj\Debug\ConLoopApp.pdb
